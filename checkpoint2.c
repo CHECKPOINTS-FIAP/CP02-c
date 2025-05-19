@@ -1,3 +1,6 @@
+//Lucas Andrade Souza RM: 564066
+//Luis Otavio Santini Feitosa RM: 563556
+
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
